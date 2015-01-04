@@ -1,5 +1,13 @@
 = plist - All-purpose Property List manipulation library
 
+=== Release version 3.1.1!
+
+2015-01-04
+ * Added the `.gemspec` to allow the git repository to be used as a gem reference
+ * Minor update to README file
+
+=== Release version 3.1.0!
+
 === Release version 3.0.0!
 
 2010-02-23:
